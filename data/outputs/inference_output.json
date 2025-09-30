@@ -1,0 +1,45 @@
+[
+  {
+    "business_id": "ce0d782b-fc0a-4120-aa13-b056632e68bb",
+    "recommendations": [
+      "By encouraging youth to engage in digital payments, digital payment services and social media",
+      "Defint a network of local and state music clubs. Participate in online community projects for children. Start a social media campaign to attract parents. Participate in online events. Promote online fundraising. Offer promotional programs to youth to promote"
+    ],
+    "confidence_score": 75
+  },
+  {
+    "business_id": "a3e4720e-1715-407e-9686-2352552d2a98",
+    "recommendations": [
+      "Develop online shopping to attract more customers, and increase brand awareness.",
+      "Encourage online shoppers to buy clothes and accessories.",
+      "Offer cheap products and services to promote beauty products and cosmetics."
+    ],
+    "confidence_score": 70
+  },
+  {
+    "business_id": "97b5352e-e37f-4fed-bd46-fa5a47ff6e54",
+    "recommendations": [
+      "Explore the importance of digital payment services in achieving growth and profitability.",
+      "It will increase sales and expand revenue.",
+      "Fostering local businesses in order to better promote business opportunities and expand business activities."
+    ],
+    "confidence_score": 70
+  },
+  {
+    "business_id": "affc044e-b6f7-4366-85e7-50157c7acaa3",
+    "recommendations": [
+      "Recommend online bookings to attract customers to meet customers' needs",
+      "Continue a conversation about your service offerings. Make sure that customers are satisfied with the experience. Find out more about their services and offer discounts. Consider your customer\u2019s choice of service. Organize your new features and products, then show the results. Ask customers how their service offerings improved. Choose a brand name and marketing plan. Provide an update on how customers compare to other customers"
+    ],
+    "confidence_score": 75
+  },
+  {
+    "business_id": "2a925d7c-9bcd-4a7d-b10c-15c7bbb0bc2c2",
+    "recommendations": [
+      "Develop a digital payment service to expand customer confidence in the online presence. Choose a digital payment provider to meet the needs of customers.",
+      "Invest in more web marketing strategies to improve customer engagement.",
+      "Find out good ways to attract new customers."
+    ],
+    "confidence_score": 70
+  }
+]
