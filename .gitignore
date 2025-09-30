@@ -28,6 +28,16 @@ build/
 .DS_Store
 Thumbs.db
 
-# Data files (optional - comment out if you want to commit CSVs)
-# *.csv
-# *.json
+# Data files
+data/raw/*.csv
+data/processed/
+data/outputs/
+*.jsonl
+logs/
+models/
+
+# Model files
+models/
+logs/
+data/outputs/
+data/processed/
