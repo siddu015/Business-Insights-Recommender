@@ -35,9 +35,3 @@ data/outputs/
 *.jsonl
 logs/
 models/
-
-# Model files
-models/
-logs/
-data/outputs/
-data/processed/
