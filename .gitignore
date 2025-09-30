@@ -29,9 +29,6 @@ build/
 Thumbs.db
 
 # Data files
-data/raw/*.csv
-data/processed/
-data/outputs/
 *.jsonl
 logs/
 models/
